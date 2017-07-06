@@ -1,7 +1,7 @@
 
 ## shreyasrh9.github.io/
 
-Personal website - https://shreyasrh9.github.io/ 
+Personal website - https://rmanuuu.github.io/ 
 
 ### License
 
