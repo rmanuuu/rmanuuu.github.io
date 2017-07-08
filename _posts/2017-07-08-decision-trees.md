@@ -1,10 +1,19 @@
 ---
 layout: post
-title: Decision Trees
-categories: [Random Forest, Gradient Boosting, XG Boost]
-tags: [01. Machine Learning]
+title: Introduction
+categories: []
+tags: [01. ML - Decision Trees]
 description:
 comments: true
 mathjax: true
 ---
 
+* **Definition**:
+	Decision Trees belong to the category of supervised learning algorithm used for classification and regression problems.
+
+* **Advantages**:
+	* Interpretable
+	* Can be visualized
+
+* **Disadvantages**:
+	* Unstable
